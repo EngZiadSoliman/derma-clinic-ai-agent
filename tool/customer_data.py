@@ -4,7 +4,7 @@ from pathlib import Path
 from langchain_core.tools import tool
 
 # Locate the clinic CSV files
-CLINIC_DIR = Path(__file__).resolve().parent.parent / "Derma_clinic"
+CLINIC_DIR = Path(__file__).resolve().parent.parent / "derma_clinic"
 
 customers = pd.read_csv(CLINIC_DIR / "customers.csv",dtype={"phone_number": str})
 visits = pd.read_csv(CLINIC_DIR / "visits.csv")
