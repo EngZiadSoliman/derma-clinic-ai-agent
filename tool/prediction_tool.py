@@ -5,7 +5,7 @@ import pandas as pd
 from langchain_core.tools import tool
 
 # Locate the clinic project
-CLINIC_DIR = Path(__file__).resolve().parent.parent / "Derma_clinic"
+CLINIC_DIR = Path(__file__).resolve().parent.parent / "derma_clinic"
 sys.path.insert(0, str(CLINIC_DIR))
 
 from predict import predict_customer
