@@ -2,9 +2,9 @@ from langchain_ollama import ChatOllama
 from langgraph.graph import StateGraph, MessagesState, START
 from langgraph.prebuilt import ToolNode, tools_condition
 from langchain_core.messages import SystemMessage
-from tools.prediction_tool import predict_customer_return_by_id
-from tools.customer_data import lookup_customer
-from tools.clinic_analytics import clinic_analytics
+from tool.prediction_tool import predict_customer_return_by_id
+from tool.customer_data import lookup_customer
+from tool.clinic_analytics import clinic_analytics
 
 
 tools = [
