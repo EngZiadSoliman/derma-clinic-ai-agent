@@ -3,7 +3,7 @@ import pandas as pd
 from pathlib import Path
 from langchain_core.tools import tool
 
-CLINIC_DIR = Path(__file__).resolve().parent.parent / "Derma_clinic"
+CLINIC_DIR = Path(__file__).resolve().parent.parent / "derma_clinic"
 
 customers = pd.read_csv(CLINIC_DIR / "customers.csv")
 visits = pd.read_csv(CLINIC_DIR / "visits.csv")
