@@ -1,0 +1,408 @@
+visit_id,customer_id,visit_date,service_type,amount_paid_sar,discount_percent,campaign_response,notes
+V001,C001,2024-01-03,Botox,1170,10,Never,Booked via Instagram message; first visit; welcome offer applied
+V002,C002,2024-01-21,Laser Hair Removal,550,0,No,Found clinic via Google; first visit
+V003,C003,2024-02-03,Filler,1170,10,Never,Walk-in consultation; first visit; welcome offer applied
+V004,C004,2024-02-06,Skin Rejuvenation,945,10,No,Booked via Snapchat ad; first visit; welcome offer applied
+V005,C005,2024-02-21,Chemical Peel,909,10,,Referred by an existing client; first visit; welcome offer applied
+V006,C006,2024-03-08,Filler,1950,0,No,Booked via Instagram message; first visit
+V007,C007,2024-03-16,Skin Rejuvenation,1250,0,,Booked via Facebook page; first visit
+V008,C008,2024-03-28,Botox,1350,0,No,Found clinic via Google; first visit
+V009,C001,2024-03-31,Filler,1215,10,Never,Rescheduled from previous week
+V010,C004,2024-04-03,Facial,420,0,No,Deep cleansing facial
+V011,C009,2024-04-07,Laser Hair Removal,350,0,No,Walk-in consultation; first visit
+V012,C002,2024-04-08,Botox,1950,0,No,Returning client
+V013,C003,2024-04-16,Botox,2300,0,Never,Maintenance session; area as discussed
+V014,C010,2024-04-17,Facial,250,0,,Booked via TikTok video; first visit
+V015,C011,2024-05-03,Botox,1000,0,No,Referred by an existing client; first visit
+V016,C005,2024-05-05,Filler,2700,0,,Referred a friend
+V017,C004,2024-05-09,Skin Rejuvenation,1150,0,No,Rescheduled from previous week
+V018,C012,2024-05-11,Facial,330,0,No,Booked via Instagram message; first visit
+V019,C006,2024-05-17,Botox,1260,10,Yes,Booked via promotional message
+V020,C013,2024-05-27,Acne Treatment,500,0,Never,Found clinic via Google; first visit
+V021,C014,2024-06-07,Chemical Peel,710,0,No,Booked via Snapchat ad; first visit
+V022,C002,2024-06-15,Chemical Peel,720,0,No,Seasonal peel session
+V023,C007,2024-06-16,Facial,450,0,,Follow-up session
+V024,C015,2024-06-18,Filler,1850,0,No,Booked via Facebook page; first visit
+V025,C009,2024-06-20,Laser Hair Removal,350,0,No,Package session 2 of 6
+V026,C016,2024-06-27,Chemical Peel,480,0,,Booked via Instagram message; first visit
+V027,C010,2024-06-28,Laser Hair Removal,477,10,,Loyalty discount applied
+V028,C001,2024-06-29,Chemical Peel,420,0,Never,Follow-up session
+V029,C004,2024-07-01,Facial,344,20,Yes,Offer received by message
+V030,C017,2024-07-14,Filler,1743,15,Yes,Walk-in consultation; first visit; campaign offer applied
+V031,C018,2024-07-20,Filler,3300,0,No,Referred by an existing client; first visit
+V032,C012,2024-07-22,Facial,340,0,No,Express facial
+V033,C011,2024-07-25,Facial,370,0,No,Glow facial
+V034,C019,2024-07-31,Facial,312,20,Yes,Found clinic via Google; first visit; campaign offer applied
+V035,C003,2024-08-07,Filler,1400,0,Never,Cheek area session
+V036,C005,2024-08-11,Chemical Peel,1010,0,,Light peel session; aftercare sheet given
+V037,C007,2024-08-13,Botox,1395,10,,Loyalty discount applied
+V038,C009,2024-08-13,Skin Rejuvenation,1200,0,No,Package session
+V039,C020,2024-08-16,Chemical Peel,410,0,,Booked via Instagram message; first visit
+V040,C013,2024-08-19,Acne Treatment,490,0,Never,Follow-up session
+V041,C021,2024-08-23,Chemical Peel,540,0,,Booked via TikTok video; first visit
+V042,C001,2024-08-24,Botox,1300,0,Never,Paid by card at reception
+V043,C004,2024-08-27,Laser Hair Removal,440,0,No,Package session 1 of 6
+V044,C016,2024-09-03,Skin Rejuvenation,1500,0,,Rejuvenation session
+V045,C022,2024-09-04,Facial,441,10,Yes,Booked via Instagram message; first visit; campaign offer applied
+V046,C015,2024-09-06,Facial,410,0,No,Booked through reception
+V047,C006,2024-09-11,Botox,1400,0,No,Referred a friend
+V048,C014,2024-09-13,Laser Hair Removal,590,0,No,Package session 1 of 6
+V049,C008,2024-09-18,Botox,1300,0,No,Maintenance session; area as discussed
+V050,C023,2024-09-21,Laser Hair Removal,330,0,Never,Booked via Facebook page; first visit
+V051,C012,2024-09-28,Facial,320,0,No,Added aftercare products
+V052,C024,2024-09-28,Facial,252,10,Yes,Referred by an existing client; first visit; campaign offer applied
+V053,C020,2024-09-30,Skin Rejuvenation,550,0,,Weekend appointment
+V054,C002,2024-10-01,Facial,540,0,No,Deep cleansing facial
+V055,C013,2024-10-06,Acne Treatment,480,0,Never,Follow-up session
+V056,C010,2024-10-14,Laser Hair Removal,540,0,,Package session 2 of 6
+V057,C025,2024-10-15,Botox,1170,10,Never,Found clinic via Google; first visit; welcome offer applied
+V058,C007,2024-10-18,Facial,450,0,,Deep cleansing facial
+V059,C011,2024-10-18,Botox,950,0,No,Follow-up session
+V060,C004,2024-10-21,Skin Rejuvenation,1035,10,Yes,Redeemed campaign offer
+V061,C026,2024-10-27,Botox,1500,0,No,Booked via Snapchat ad; first visit
+V062,C009,2024-10-28,Laser Hair Removal,297,10,Yes,Booked via promotional message
+V063,C021,2024-10-30,Facial,360,0,,Deep cleansing facial
+V064,C027,2024-11-04,Filler,1650,0,,Walk-in consultation; first visit
+V065,C028,2024-11-14,Skin Rejuvenation,675,10,Yes,Booked via Instagram message; first visit; campaign offer applied
+V066,C001,2024-11-18,Facial,450,0,Never,Express facial
+V067,C019,2024-11-20,Facial,410,0,No,Paid by card at reception
+V068,C005,2024-11-23,Chemical Peel,1050,0,,Follow-up session
+V069,C029,2024-11-28,Chemical Peel,480,0,,Found clinic via Google; first visit
+V070,C003,2024-11-29,Botox,2250,0,Never,Forehead area session
+V071,C004,2024-11-29,Skin Rejuvenation,1050,0,No,Used clinic loyalty points
+V072,C022,2024-12-02,Chemical Peel,432,10,Yes,Added aftercare products
+V073,C016,2024-12-10,Chemical Peel,510,0,,Follow-up session
+V074,C030,2024-12-11,Acne Treatment,468,10,Never,Referred by an existing client; first visit; welcome offer applied
+V075,C017,2024-12-14,Filler,1560,20,Yes,Offer received by message
+V076,C026,2024-12-15,Skin Rejuvenation,765,10,No,Loyalty discount applied
+V077,C031,2024-12-18,Facial,333,10,No,Booked via Facebook page; first visit; welcome offer applied
+V078,C014,2024-12-20,Laser Hair Removal,610,0,No,Package session 2 of 6
+V079,C023,2024-12-20,Laser Hair Removal,330,0,Never,Package session 2 of 6
+V080,C012,2024-12-25,Facial,272,20,Yes,Booked via promotional message
+V081,C028,2024-12-26,Acne Treatment,332,15,Yes,Offer received by message
+V082,C020,2024-12-28,Chemical Peel,400,0,,Light peel session; aftercare sheet given
+V083,C013,2024-12-29,Acne Treatment,490,0,Never,Skincare routine advice given
+V084,C015,2024-12-29,Filler,1800,0,No,Lip area session
+V085,C009,2024-12-31,Laser Hair Removal,330,0,No,Package session 4 of 6
+V086,C002,2025-01-03,Facial,540,0,No,Paid by card at reception
+V087,C032,2025-01-05,Skin Rejuvenation,540,10,,Booked via Instagram message; first visit; welcome offer applied
+V088,C011,2025-01-06,Chemical Peel,510,0,No,Seasonal peel session
+V089,C010,2025-01-08,Facial,250,0,,Follow-up session
+V090,C006,2025-01-09,Filler,1900,0,No,Cheek area session
+V091,C033,2025-01-09,Skin Rejuvenation,1350,0,,Walk-in consultation; first visit
+V092,C019,2025-01-17,Chemical Peel,450,10,Yes,Booked via promotional message
+V093,C024,2025-01-20,Skin Rejuvenation,400,20,Yes,Redeemed campaign offer
+V094,C034,2025-01-20,Laser Hair Removal,468,10,Never,Booked via Snapchat ad; first visit; welcome offer applied
+V095,C004,2025-01-24,Skin Rejuvenation,1100,0,No,Rejuvenation session
+V096,C007,2025-02-01,Facial,470,0,,Deep cleansing facial
+V097,C035,2025-02-01,Facial,550,0,No,Found clinic via Google; first visit
+V098,C001,2025-02-04,Botox,1300,0,Never,Consultation then treatment same day
+V099,C003,2025-02-05,Botox,2300,0,Never,Booked through reception
+V100,C005,2025-02-05,Chemical Peel,1060,0,,Peel session; sunscreen reminder given
+V101,C018,2025-02-06,Facial,610,0,No,Hydration facial
+V102,C023,2025-02-08,Laser Hair Removal,320,0,Never,Package session 3 of 6
+V103,C021,2025-02-13,Chemical Peel,530,0,,Seasonal peel session
+V104,C022,2025-02-16,Facial,400,20,Yes,Booked via promotional message
+V105,C029,2025-02-16,Laser Hair Removal,750,0,,Package session 1 of 6
+V106,C036,2025-02-16,Acne Treatment,640,0,No,Booked via Instagram message; first visit
+V107,C014,2025-02-20,Laser Hair Removal,610,0,No,Package session 3 of 6
+V108,C026,2025-02-24,Botox,1550,0,No,Maintenance session; area as discussed
+V109,C030,2025-02-27,Acne Treatment,520,0,Never,Treatment plan session
+V110,C028,2025-02-28,Botox,1275,15,Yes,Redeemed campaign offer
+V111,C009,2025-03-01,Skin Rejuvenation,1200,0,No,Rejuvenation session; routine advice given
+V112,C033,2025-03-01,Skin Rejuvenation,1300,0,,Rescheduled from previous week
+V113,C017,2025-03-03,Skin Rejuvenation,1250,0,No,Rejuvenation session; routine advice given
+V114,C037,2025-03-03,Acne Treatment,740,0,No,Referred by an existing client; first visit
+V115,C038,2025-03-10,Laser Hair Removal,230,0,Never,Booked via TikTok video; first visit
+V116,C019,2025-03-16,Chemical Peel,450,10,Yes,Offer received by message
+V117,C008,2025-03-17,Botox,1215,10,No,Loyalty discount applied
+V118,C013,2025-03-19,Acne Treatment,490,0,Never,Follow-up session
+V119,C016,2025-03-20,Skin Rejuvenation,1450,0,,Rejuvenation session; routine advice given
+V120,C020,2025-03-21,Chemical Peel,351,10,,Loyalty discount applied
+V121,C039,2025-03-26,Laser Hair Removal,250,0,,Booked via Facebook page; first visit
+V122,C040,2025-03-30,Botox,810,10,No,Booked via Instagram message; first visit; welcome offer applied
+V123,C035,2025-03-31,Facial,550,0,No,Hydration facial
+V124,C023,2025-04-03,Laser Hair Removal,330,0,Never,Package session 4 of 6
+V125,C012,2025-04-04,Facial,272,15,Yes,Glow facial
+V126,C001,2025-04-05,Botox,1080,10,Never,Loyalty discount applied
+V127,C029,2025-04-05,Laser Hair Removal,730,0,,Package session 2 of 6
+V128,C031,2025-04-05,Chemical Peel,369,10,No,Peel session; sunscreen reminder given
+V129,C015,2025-04-12,Facial,332,15,Yes,Express facial
+V130,C010,2025-04-14,Facial,270,0,,Used clinic loyalty points
+V131,C041,2025-04-14,Filler,2250,0,No,Found clinic via Google; first visit
+V132,C022,2025-04-15,Facial,477,10,Yes,Offer received by message
+V133,C007,2025-04-16,Skin Rejuvenation,1080,10,,Rejuvenation session; routine advice given
+V134,C034,2025-04-16,Chemical Peel,600,0,Never,Light peel session; aftercare sheet given
+V135,C036,2025-04-19,Botox,1700,0,No,Forehead area session
+V136,C011,2025-04-25,Facial,323,15,Yes,Offer received by message
+V137,C042,2025-04-28,Filler,2550,0,No,Walk-in consultation; first visit
+V138,C005,2025-04-30,Chemical Peel,1040,0,,Peel session; sunscreen reminder given
+V139,C002,2025-05-01,Facial,459,10,No,Loyalty discount applied
+V140,C032,2025-05-01,Facial,360,0,,Glow facial
+V141,C028,2025-05-03,Acne Treatment,333,10,Yes,Seasonal promotion applied
+V142,C021,2025-05-04,Chemical Peel,530,0,,Peel session; sunscreen reminder given
+V143,C024,2025-05-04,Facial,260,0,No,Booked through reception
+V144,C026,2025-05-04,Botox,1500,0,No,Requested late afternoon slot
+V145,C014,2025-05-05,Laser Hair Removal,600,0,No,Package session 4 of 6
+V146,C043,2025-05-08,Botox,1050,0,Never,Referred by an existing client; first visit
+V147,C013,2025-05-12,Acne Treatment,470,0,Never,Skincare routine advice given
+V148,C033,2025-05-12,Skin Rejuvenation,1300,0,,Package session
+V149,C039,2025-05-15,Laser Hair Removal,260,0,,Package session 2 of 6
+V150,C030,2025-05-16,Facial,270,0,Never,Express facial
+V151,C044,2025-05-16,Skin Rejuvenation,650,0,No,Booked via Instagram message; first visit
+V152,C020,2025-05-17,Chemical Peel,410,0,,Seasonal peel session
+V153,C037,2025-05-18,Facial,550,0,No,Used clinic loyalty points
+V154,C006,2025-05-20,Skin Rejuvenation,1050,0,No,Package session
+V155,C027,2025-05-26,Filler,1550,0,,Lip area session
+V156,C045,2025-05-27,Laser Hair Removal,243,10,,Booked via Snapchat ad; first visit; welcome offer applied
+V157,C017,2025-05-29,Filler,1755,10,Yes,Booked via promotional message
+V158,C036,2025-06-12,Acne Treatment,620,0,No,Skincare routine advice given
+V159,C003,2025-06-13,Botox,2450,0,Never,Consultation then treatment same day
+V160,C046,2025-06-13,Botox,1500,0,Never,Found clinic via Google; first visit
+V161,C019,2025-06-14,Facial,340,15,Yes,Booked through reception
+V162,C001,2025-06-18,Botox,1125,10,Never,Loyalty discount applied
+V163,C028,2025-06-20,Facial,450,0,No,Hydration facial
+V164,C035,2025-06-20,Facial,530,0,No,Hydration facial
+V165,C040,2025-06-20,Filler,1980,10,No,Loyalty discount applied
+V166,C038,2025-06-22,Botox,1800,0,Never,Referred a friend
+V167,C047,2025-06-24,Botox,2250,0,No,Booked via Facebook page; first visit
+V168,C031,2025-07-02,Facial,360,0,No,Express facial
+V169,C022,2025-07-03,Facial,441,10,Yes,Seasonal promotion applied
+V170,C048,2025-07-04,Filler,3500,0,No,Booked via Instagram message; first visit
+V171,C023,2025-07-06,Laser Hair Removal,300,0,Never,Package session 5 of 6
+V172,C010,2025-07-09,Facial,240,0,,Express facial
+V173,C030,2025-07-11,Facial,250,0,Never,Express facial
+V174,C034,2025-07-11,Facial,260,0,Never,Added aftercare products
+V175,C049,2025-07-11,Filler,2500,0,No,Walk-in consultation; first visit
+V176,C012,2025-07-15,Facial,350,0,No,Express facial
+V177,C033,2025-07-15,Skin Rejuvenation,1215,10,,Loyalty discount applied
+V178,C021,2025-07-19,Facial,380,0,,Referred a friend
+V179,C011,2025-07-21,Facial,350,0,No,Deep cleansing facial
+V180,C024,2025-07-23,Facial,270,0,No,Hydration facial
+V181,C002,2025-07-24,Facial,530,0,No,Express facial
+V182,C039,2025-07-24,Laser Hair Removal,260,0,,Package session 3 of 6
+V183,C014,2025-07-26,Laser Hair Removal,610,0,No,Package session 5 of 6
+V184,C026,2025-07-26,Botox,1450,0,No,Forehead area session
+V185,C050,2025-07-28,Chemical Peel,400,0,Never,Booked via TikTok video; first visit
+V186,C013,2025-07-29,Acne Treatment,414,10,Never,Loyalty discount applied
+V187,C007,2025-08-02,Facial,396,10,,Hydration facial
+V188,C025,2025-08-03,Chemical Peel,490,0,Never,Added aftercare products
+V189,C006,2025-08-05,Botox,1300,0,No,Consultation then treatment same day
+V190,C020,2025-08-05,Skin Rejuvenation,550,0,,Package session
+V191,C035,2025-08-05,Botox,1450,0,No,Booked through reception
+V192,C051,2025-08-05,Laser Hair Removal,610,0,,Referred by an existing client; first visit
+V193,C005,2025-08-10,Filler,2700,0,,Returning client
+V194,C052,2025-08-15,Filler,2200,0,,Booked via Instagram message; first visit
+V195,C045,2025-08-17,Laser Hair Removal,270,0,,Package session 2 of 6
+V196,C036,2025-08-19,Skin Rejuvenation,1300,0,No,Rejuvenation session; routine advice given
+V197,C044,2025-08-19,Chemical Peel,750,0,No,Light peel session; aftercare sheet given
+V198,C037,2025-08-20,Acne Treatment,690,0,No,Follow-up session
+V199,C001,2025-08-21,Facial,460,0,Never,Deep cleansing facial
+V200,C043,2025-08-22,Skin Rejuvenation,1550,0,Never,Rejuvenation session
+V201,C053,2025-08-28,Botox,1800,0,Never,Found clinic via Google; first visit
+V202,C019,2025-09-02,Facial,380,0,No,Booked through reception
+V203,C028,2025-09-02,Acne Treatment,351,10,Yes,Offer received by message
+V204,C017,2025-09-04,Facial,200,20,Yes,Offer received by message
+V205,C040,2025-09-04,Botox,765,15,Yes,Offer received by message
+V206,C039,2025-09-10,Facial,220,0,,Express facial
+V207,C054,2025-09-10,Acne Treatment,300,0,No,Booked via Snapchat ad; first visit
+V208,C034,2025-09-11,Laser Hair Removal,480,0,Never,Package session 2 of 6
+V209,C049,2025-09-11,Filler,2250,10,No,Touch-up session
+V210,C003,2025-09-13,Botox,2450,0,Never,Rescheduled from previous week
+V211,C023,2025-09-14,Laser Hair Removal,270,10,Never,Loyalty discount applied
+V212,C038,2025-09-14,Acne Treatment,490,0,Never,Used clinic loyalty points
+V213,C021,2025-09-17,Facial,350,0,,Express facial
+V214,C035,2025-09-17,Facial,540,0,No,Referred a friend
+V215,C032,2025-09-18,Skin Rejuvenation,540,10,,Loyalty discount applied
+V216,C055,2025-09-24,Filler,2025,10,,Booked via Facebook page; first visit; welcome offer applied
+V217,C007,2025-09-29,Facial,414,10,,Loyalty discount applied
+V218,C024,2025-10-03,Facial,243,10,Yes,Redeemed campaign offer
+V219,C056,2025-10-06,Laser Hair Removal,560,0,No,Booked via Instagram message; first visit
+V220,C026,2025-10-07,Skin Rejuvenation,810,10,No,Package session
+V221,C011,2025-10-10,Facial,324,10,No,Loyalty discount applied
+V222,C022,2025-10-10,Facial,416,20,Yes,Booked via promotional message
+V223,C031,2025-10-12,Facial,360,0,No,Weekend appointment
+V224,C012,2025-10-13,Acne Treatment,720,0,No,Follow-up session
+V225,C018,2025-10-13,Filler,2593,15,Yes,Offer received by message
+V226,C045,2025-10-16,Laser Hair Removal,280,0,,Package session 3 of 6
+V227,C057,2025-10-16,Laser Hair Removal,1050,0,No,Referred by an existing client; first visit
+V228,C044,2025-10-17,Chemical Peel,690,0,No,Seasonal peel session
+V229,C052,2025-10-17,Filler,2150,0,,Cheek area session
+V230,C008,2025-10-19,Filler,2745,10,Yes,Cheek area session
+V231,C013,2025-10-21,Acne Treatment,460,0,Never,Skincare routine advice given
+V232,C042,2025-10-23,Filler,2295,10,Yes,Touch-up session
+V233,C058,2025-10-24,Botox,990,10,,Walk-in consultation; first visit; welcome offer applied
+V234,C051,2025-10-28,Laser Hair Removal,600,0,,Package session 2 of 6
+V235,C001,2025-10-30,Facial,450,0,Never,Follow-up session
+V236,C050,2025-11-01,Chemical Peel,420,0,Never,Requested late afternoon slot
+V237,C059,2025-11-03,Acne Treatment,621,10,,Found clinic via Google; first visit; welcome offer applied
+V238,C040,2025-11-05,Botox,760,20,Yes,Maintenance session; area as discussed
+V239,C037,2025-11-06,Facial,550,0,No,Paid by card at reception
+V240,C002,2025-11-09,Filler,1500,0,No,Touch-up session
+V241,C054,2025-11-11,Acne Treatment,280,0,No,Treatment plan session
+V242,C048,2025-11-14,Facial,510,0,No,Glow facial
+V243,C060,2025-11-17,Laser Hair Removal,420,0,,Booked via Instagram message; first visit
+V244,C043,2025-11-18,Skin Rejuvenation,1500,0,Never,Used clinic loyalty points
+V245,C049,2025-11-20,Acne Treatment,600,0,No,Skincare routine advice given
+V246,C028,2025-11-21,Laser Hair Removal,650,0,No,Package session 1 of 6
+V247,C005,2025-11-22,Filler,2650,0,,Rescheduled from previous week
+V248,C061,2025-11-29,Facial,400,0,No,Booked via TikTok video; first visit
+V249,C023,2025-12-03,Laser Hair Removal,320,0,Never,Maintenance session
+V250,C057,2025-12-03,Laser Hair Removal,1080,0,No,Package session 2 of 6
+V251,C006,2025-12-04,Botox,1450,0,No,Forehead area session
+V252,C013,2025-12-06,Acne Treatment,450,10,Never,Skincare routine advice given
+V253,C062,2025-12-12,Filler,1550,0,Never,Referred by an existing client; first visit
+V254,C056,2025-12-13,Laser Hair Removal,600,0,No,Package session 2 of 6
+V255,C035,2025-12-14,Facial,540,0,No,Express facial
+V256,C058,2025-12-14,Acne Treatment,440,0,,Treatment plan session
+V257,C055,2025-12-17,Laser Hair Removal,1020,0,,Package session 1 of 6
+V258,C063,2025-12-17,Skin Rejuvenation,1050,0,No,Booked via Facebook page; first visit
+V259,C024,2025-12-18,Facial,252,10,Yes,Offer received by message
+V260,C019,2025-12-25,Skin Rejuvenation,638,15,Yes,Offer received by message
+V261,C054,2025-12-25,Acne Treatment,279,10,No,Loyalty discount applied
+V262,C012,2025-12-26,Facial,340,0,No,Deep cleansing facial
+V263,C051,2025-12-27,Laser Hair Removal,620,0,,Package session 3 of 6
+V264,C017,2025-12-28,Filler,1743,15,Yes,Redeemed campaign offer
+V265,C040,2025-12-28,Botox,850,0,No,Forehead area session
+V266,C052,2025-12-31,Filler,2200,0,,Booked through reception
+V267,C064,2026-01-01,Filler,2115,10,Yes,Booked via Instagram message; first visit; campaign offer applied
+V268,C045,2026-01-07,Laser Hair Removal,280,0,,Package session 4 of 6
+V269,C059,2026-01-08,Acne Treatment,710,0,,Added aftercare products
+V270,C031,2026-01-12,Chemical Peel,410,0,No,Seasonal peel session
+V271,C053,2026-01-12,Botox,1900,0,Never,Forehead area session
+V272,C065,2026-01-13,Facial,603,10,No,Found clinic via Google; first visit; welcome offer applied
+V273,C028,2026-01-16,Acne Treatment,351,10,No,Treatment plan session
+V274,C041,2026-01-24,Filler,2300,0,No,Touch-up session
+V275,C003,2026-01-25,Botox,2400,0,Never,Consultation then treatment same day
+V276,C066,2026-01-25,Skin Rejuvenation,1000,20,Yes,Booked via Snapchat ad; first visit; campaign offer applied
+V277,C011,2026-01-28,Botox,760,20,Yes,Booked via promotional message
+V278,C060,2026-01-30,Chemical Peel,320,0,,Peel session; sunscreen reminder given
+V279,C046,2026-01-31,Chemical Peel,640,0,Never,Rescheduled from previous week
+V280,C023,2026-02-03,Laser Hair Removal,297,10,Never,Maintenance session
+V281,C013,2026-02-06,Acne Treatment,470,0,Never,Treatment plan session
+V282,C027,2026-02-07,Filler,1550,0,,Cheek area session
+V283,C067,2026-02-07,Chemical Peel,490,0,,Walk-in consultation; first visit
+V284,C006,2026-02-10,Filler,1950,0,No,Paid by card at reception
+V285,C049,2026-02-14,Skin Rejuvenation,1300,0,No,Returning client
+V286,C068,2026-02-16,Chemical Peel,690,0,,Booked via Instagram message; first visit
+V287,C050,2026-02-17,Facial,210,0,Never,Hydration facial
+V288,C024,2026-02-18,Facial,260,0,No,Glow facial
+V289,C055,2026-02-19,Filler,2200,0,,Cheek area session
+V290,C061,2026-02-19,Chemical Peel,410,0,No,Light peel session; aftercare sheet given
+V291,C057,2026-02-21,Laser Hair Removal,1140,0,No,Package session 3 of 6
+V292,C069,2026-02-22,Botox,1200,0,No,Referred by an existing client; first visit
+V293,C054,2026-02-25,Acne Treatment,300,0,No,Skincare routine advice given
+V294,C062,2026-02-26,Laser Hair Removal,800,0,Never,Package session 1 of 6
+V295,C008,2026-02-28,Botox,1300,0,No,Booked through reception
+V296,C058,2026-02-28,Botox,1050,0,,Returning client
+V297,C052,2026-03-01,Acne Treatment,290,0,,Skincare routine advice given
+V298,C040,2026-03-03,Botox,720,20,Yes,Forehead area session
+V299,C059,2026-03-03,Acne Treatment,680,0,,Used clinic loyalty points
+V300,C047,2026-03-06,Botox,2160,10,Yes,Offer received by message
+V301,C070,2026-03-08,Filler,2950,0,Never,Found clinic via Google; first visit
+V302,C045,2026-03-12,Filler,3450,0,,Booked through reception
+V303,C067,2026-03-12,Chemical Peel,520,0,,Booked through reception
+V304,C056,2026-03-13,Laser Hair Removal,540,10,Yes,Package session 3 of 6
+V305,C048,2026-03-16,Skin Rejuvenation,1850,0,No,Rejuvenation session; routine advice given
+V306,C071,2026-03-17,Acne Treatment,580,0,No,Booked via Facebook page; first visit
+V307,C051,2026-03-21,Skin Rejuvenation,1050,0,,Follow-up session
+V308,C043,2026-03-24,Skin Rejuvenation,1500,0,Never,Rejuvenation session; routine advice given
+V309,C064,2026-03-24,Filler,2450,0,No,Weekend appointment
+V310,C065,2026-03-30,Facial,520,20,Yes,Offer received by message
+V311,C060,2026-03-31,Chemical Peel,340,0,,Seasonal peel session
+V312,C072,2026-04-02,Botox,1300,0,No,Booked via Instagram message; first visit
+V313,C017,2026-04-04,Botox,945,10,Yes,Redeemed campaign offer
+V314,C019,2026-04-08,Laser Hair Removal,410,0,No,Package session 1 of 6
+V315,C073,2026-04-08,Filler,1550,0,,Booked via TikTok video; first visit
+V316,C025,2026-04-14,Botox,1350,0,Never,Returning client
+V317,C012,2026-04-15,Facial,340,0,No,Express facial
+V318,C049,2026-04-15,Acne Treatment,560,0,No,Treatment plan session
+V319,C031,2026-04-20,Laser Hair Removal,801,10,No,Loyalty discount applied
+V320,C074,2026-04-25,Chemical Peel,324,10,No,Walk-in consultation; first visit; welcome offer applied
+V321,C045,2026-04-30,Laser Hair Removal,260,0,,Package session 5 of 6
+V322,C058,2026-04-30,Botox,990,10,,Forehead area session
+V323,C067,2026-04-30,Acne Treatment,520,0,,Skincare routine advice given
+V324,C075,2026-04-30,Botox,2050,0,No,Found clinic via Google; first visit
+V325,C061,2026-05-02,Skin Rejuvenation,1050,0,No,Rejuvenation session; routine advice given
+V326,C024,2026-05-03,Facial,221,15,Yes,Deep cleansing facial
+V327,C066,2026-05-08,Skin Rejuvenation,1063,15,Yes,Seasonal promotion applied
+V328,C062,2026-05-09,Botox,1650,0,Never,Consultation then treatment same day
+V329,C076,2026-05-10,Facial,230,0,,Booked via Instagram message; first visit
+V330,C006,2026-05-16,Botox,1215,10,No,Loyalty discount applied
+V331,C011,2026-05-18,Chemical Peel,540,0,No,Light peel session; aftercare sheet given
+V332,C056,2026-05-18,Laser Hair Removal,522,10,Yes,Seasonal promotion applied
+V333,C042,2026-05-26,Filler,2600,0,No,Lip area session
+V334,C068,2026-05-28,Chemical Peel,650,0,,Rescheduled from previous week
+V335,C077,2026-05-28,Botox,1935,10,No,Referred by an existing client; first visit; welcome offer applied
+V336,C063,2026-06-01,Filler,1700,0,No,Touch-up session
+V337,C078,2026-06-02,Laser Hair Removal,480,0,Never,Booked via Snapchat ad; first visit
+V338,C053,2026-06-05,Skin Rejuvenation,850,0,Never,Rescheduled from previous week
+V339,C071,2026-06-05,Facial,450,0,No,Deep cleansing facial
+V340,C049,2026-06-12,Botox,1300,0,No,Forehead area session
+V341,C079,2026-06-12,Chemical Peel,612,10,Yes,Booked via Facebook page; first visit; campaign offer applied
+V342,C003,2026-06-13,Filler,1170,10,Never,Lip area session
+V343,C072,2026-06-18,Botox,1300,0,No,Consultation then treatment same day
+V344,C074,2026-06-22,Chemical Peel,297,10,Yes,Seasonal promotion applied
+V345,C012,2026-06-26,Facial,330,0,No,Paid by card at reception
+V346,C080,2026-06-27,Facial,440,0,No,Booked via Instagram message; first visit
+V347,C069,2026-06-28,Botox,960,20,Yes,Maintenance session; area as discussed
+V348,C081,2026-07-06,Laser Hair Removal,780,0,,Found clinic via Google; first visit
+V349,C065,2026-07-08,Facial,620,0,No,Follow-up session
+V350,C082,2026-07-15,Chemical Peel,450,10,No,Walk-in consultation; first visit; welcome offer applied
+V351,C077,2026-07-16,Laser Hair Removal,1050,0,No,Package session 1 of 6
+V352,C078,2026-07-30,Laser Hair Removal,470,0,Never,Package session 2 of 6
+V353,C083,2026-08-01,Acne Treatment,640,0,No,Referred by an existing client; first visit
+V354,C084,2026-08-07,Botox,900,0,No,Booked via Instagram message; first visit
+V355,C076,2026-08-10,Facial,230,0,,Glow facial
+V356,C071,2026-08-12,Acne Treatment,600,0,No,Follow-up session
+V357,C068,2026-08-16,Filler,2300,0,,Cheek area session
+V358,C070,2026-08-19,Laser Hair Removal,700,0,Never,Package session 1 of 6
+V359,C011,2026-08-20,Facial,350,0,No,Hydration facial
+V360,C048,2026-08-22,Filler,3195,10,No,Cheek area session
+V361,C079,2026-08-23,Chemical Peel,640,0,No,Peel session; sunscreen reminder given
+V362,C085,2026-08-23,Acne Treatment,510,0,No,Booked via TikTok video; first visit
+V363,C072,2026-08-25,Botox,1350,0,No,Forehead area session
+V364,C066,2026-08-28,Filler,2750,0,No,Requested late afternoon slot
+V365,C017,2026-08-30,Filler,1845,10,Yes,Offer received by message
+V366,C080,2026-08-30,Filler,1300,0,No,Touch-up session
+V367,C086,2026-08-31,Skin Rejuvenation,750,0,Never,Found clinic via Google; first visit
+V368,C027,2026-09-06,Filler,1650,0,,Touch-up session
+V369,C087,2026-09-07,Acne Treatment,480,0,Never,Booked via Facebook page; first visit
+V370,C064,2026-09-09,Filler,2400,0,No,Lip area session
+V371,C018,2026-09-11,Filler,2745,10,No,Lip area session
+V372,C046,2026-09-14,Botox,1500,0,Never,Forehead area session
+V373,C077,2026-09-16,Laser Hair Removal,1010,0,No,Package session 2 of 6
+V374,C081,2026-09-18,Facial,290,0,,Referred a friend
+V375,C088,2026-09-18,Acne Treatment,610,0,No,Booked via Instagram message; first visit
+V376,C083,2026-09-20,Acne Treatment,630,0,No,Follow-up session
+V377,C006,2026-09-23,Botox,1350,0,No,Maintenance session; area as discussed
+V378,C053,2026-09-23,Botox,1750,0,Never,Consultation then treatment same day
+V379,C086,2026-09-24,Skin Rejuvenation,700,0,Never,Rejuvenation session
+V380,C025,2026-09-27,Botox,1350,0,Never,Maintenance session; area as discussed
+V381,C087,2026-09-28,Laser Hair Removal,600,0,Never,Package session 1 of 6
+V382,C089,2026-09-29,Acne Treatment,600,0,No,Referred by an existing client; first visit
+V383,C047,2026-09-30,Botox,1998,15,Yes,Forehead area session
+V384,C008,2026-10-01,Botox,1300,0,No,Forehead area session
+V385,C042,2026-10-01,Acne Treatment,567,10,Yes,Seasonal promotion applied
+V386,C082,2026-10-01,Facial,288,10,Yes,Seasonal promotion applied
+V387,C090,2026-10-02,Facial,333,10,Yes,Booked via Snapchat ad; first visit; campaign offer applied
+V388,C003,2026-10-04,Botox,2400,0,Never,Paid by card at reception
+V389,C069,2026-10-06,Laser Hair Removal,576,10,Yes,Booked via promotional message
+V390,C084,2026-10-06,Botox,855,10,Yes,Booked via promotional message
+V391,C075,2026-10-08,Botox,2050,0,No,Forehead area session
+V392,C073,2026-10-10,Chemical Peel,370,0,,Light peel session; aftercare sheet given
+V393,C088,2026-10-10,Laser Hair Removal,270,0,No,Package session 1 of 6
+V394,C089,2026-10-12,Facial,560,0,No,Referred a friend
+V395,C091,2026-10-12,Filler,1450,0,,Found clinic via Google; first visit
+V396,C092,2026-10-13,Skin Rejuvenation,540,10,,Walk-in consultation; first visit; welcome offer applied
+V397,C093,2026-10-13,Laser Hair Removal,324,10,Yes,Booked via Instagram message; first visit; campaign offer applied
+V398,C063,2026-10-15,Filler,1650,0,No,Paid by card at reception
+V399,C095,2026-10-18,Laser Hair Removal,590,0,,Booked via Facebook page; first visit
+V400,C041,2026-10-19,Filler,1935,10,Yes,Redeemed campaign offer
+V401,C085,2026-10-21,Acne Treatment,423,10,Yes,Follow-up session
+V402,C094,2026-10-21,Skin Rejuvenation,800,0,No,Referred by an existing client; first visit
+V403,C096,2026-10-22,Botox,900,10,Yes,Booked via Instagram message; first visit; campaign offer applied
+V404,C097,2026-10-24,Acne Treatment,670,0,Never,Found clinic via Google; first visit
+V405,C098,2026-10-29,Facial,420,0,,Booked via TikTok video; first visit
+V406,C099,2026-10-29,Laser Hair Removal,580,0,,Walk-in consultation; first visit
+V407,C100,2026-10-29,Filler,2160,20,Yes,Booked via Instagram message; first visit; campaign offer applied
